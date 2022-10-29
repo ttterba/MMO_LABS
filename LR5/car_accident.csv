@@ -1,0 +1,11 @@
+Gender,Expirience years,Age,Has car accident this year
+male,1,21,Yes
+male,13,38,No
+female,4,23,Yes
+male,,39,No
+female,8,44,No
+female,3,32,No
+male,12,,Yes
+female,2,34,Yes
+female,25,50,No
+male,24,61,Yes
